@@ -5,33 +5,21 @@
 2. Improve problem solving skills.
 3. Framworks and stuff which is required for work.
 
+## There can be three types of learning,
+1. DS and Algos (DSALGO),
+2. Stuff required to learn for doing personal projects (PERSONAL),
+3. Stuff need to learn required for work (WORK).
+
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 2nd, 2021 - Saturday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- [X] DSALGO - Started from the basics of time complexities. Evaluated time complexities of common loops and also recursion using Recursion Tree method.
+- [ ] PERSONAL - Nothing for today,
+- [ ] WORK - Nothing for today.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I still feel like i need to practice more loops and evaluation of alogorithm complexities but i think it'll come with time when I start learning more Algorithms, so instead of spending more time on it , i'll move on to learning new mathematical concepts which could help me in competitive programming.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** https://practice.geeksforgeeks.org/batch/cp-mathematics/
