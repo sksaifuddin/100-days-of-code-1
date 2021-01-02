@@ -1,3 +1,10 @@
+### Hello world, I've been trying to learn Datastructures and Algorithms and also to improve my problem solving skills. I tried multiple times and always failed due to some unexpected work. This is my attempt to finally improve my problem solving skills.
+
+## TARGET:
+1. Learning Datastructures and Algorithms. 
+2. Improve problem solving skills.
+3. Framworks and stuff which is required for work.
+
 # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
