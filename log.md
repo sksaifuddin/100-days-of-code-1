@@ -38,6 +38,6 @@
 - [ ] PERSONAL - Nothing for today,
 - [ ] WORK - Nothing for today.
 
-**Thoughts:** Finally understood the Airthmetic Progession(I think!), it was a good revise session. This could help me solving problems I hope.I started to feel confident about math already, want to continue this. My maths always been weak.
+**Thoughts:** Finally understood the Airthmetic Progession(I think!), it was a good revise session. This could help me solving problems I hope.I started to feel confident about math already, want to continue this.My maths always been weak.
 
 **Link to work:** https://www.khanacademy.org/math/in-in-grade-10-ncert/x573d8ce20721c073:arithmetic-progressions
