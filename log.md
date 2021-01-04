@@ -41,3 +41,22 @@
 **Thoughts:** Finally understood the Airthmetic Progession(I think!), it was a good revise session. This could help me solving problems I hope.I started to feel confident about math already, want to continue this.My maths always been weak.
 
 **Link to work:** https://www.khanacademy.org/math/in-in-grade-10-ncert/x573d8ce20721c073:arithmetic-progressions
+
+### Day 3: January 4th, 2021 - Monday
+
+**Today's Progress**: 
+
+- [X] DSALGO - 
+1. Completed the basics Geometric progression.
+      #### Topics completed -
+       * What is Geometric progression
+       * nth terms of GP formula evaulation
+       * sum of n terms GP formula evaulation
+       * Inetersting facts about GP
+- [ ] PERSONAL - Nothing for today,
+- [ ] WORK - Nothing for today.
+
+**Thoughts:** Done with progression, i will try to solve few problems tomorrow and also revise AP and GP.
+
+**Link to work:** https://www.khanacademy.org/math/in-in-grade-10-ncert/x573d8ce20721c073:arithmetic-progressions
+
