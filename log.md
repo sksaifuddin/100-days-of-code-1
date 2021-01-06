@@ -60,3 +60,19 @@
 
 **Link to work:** https://www.khanacademy.org/math/in-in-grade-10-ncert/x573d8ce20721c073:arithmetic-progressions
 
+### Day 4: January 6th, 2021 - Wednesday
+
+**Today's Progress**: 
+
+- [X] DSALGO - 
+1. Started with bitwise operators.
+      #### Topics completed -
+       * Types of Bit wise operators.
+       * count set bits 
+       * check if kth bit is set or not
+- [ ] PERSONAL - Nothing for today,
+- [X] WORK - Learning about the concept of namespaces in Typescript. Also implemented eslint in Typescript library. I will try to add husky also to enforce linting rules in the project.
+
+**Thoughts:** I think bit wise opertors are very important for writing quality algorithms, i will spend lot of time and try to solve as many as possible problems on bit wise.
+
+
